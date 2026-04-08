@@ -5,7 +5,7 @@
 \title{销售订单数据同步任务生成生成器界面}
 \usage{
 salReturnUI(
-  tabTitle = "BYD销售退货上传模板",
+  tabTitle = "BYD销售退货同步",
   colTitles = c("操作区域", "操作区域", "显示区域"),
   widthRates = c(6, 6, 12),
   func_left = salReturnUI_left,

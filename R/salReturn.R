@@ -13,7 +13,7 @@
 #'
 #' @examples
 #' salReturnUI()
-salReturnUI <- function(tabTitle ='BYD销售退货上传模板',
+salReturnUI <- function(tabTitle ='BYD销售退货同步',
                        colTitles =c('操作区域','操作区域','显示区域'),
                        widthRates =c(6,6,12),
                        func_left = salReturnUI_left,
